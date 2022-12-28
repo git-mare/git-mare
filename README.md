@@ -1,5 +1,5 @@
 <h2>Oi!</h2>
-<li>Sistemas de Informação 6/8</li>
+<li><b>Sistemas de Informação</b> - UEMG (6/8)</li>
 <li>Em busca de conhecimentos em programação</li>
 
 <h2>Meus Projetos</h2>
