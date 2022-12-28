@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>Oi!</h2>
+<li>Sistemas de Informação 6/8</li>
+<li>Em busca de conhecimentos em programação</li>
 
-<!--
-**git-mare/git-mare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Meus Projetos</h2>
+<li><a href="https://youtube.com/@git-mare">Canal no YouTube</a></li>
+<li><a href="https://illya.site/">Meu bot no discord</a></li>
+<h2>Linguagens</h2>
+<img src="https://i.imgur.com/2ThaQHH.png" align="left" width="50px" height="50px"> 
+<img src="https://i.imgur.com/0fL5s7a.png" align="left" width="40px" height="50px">
+<img src="https://i.imgur.com/BGCsunC.png" width="50px" height="50px">
+<br>
+<h2>Aprendendo</h2>
+<img src="https://i.imgur.com/5Htw0VL.png" width="40px" align="left" height="40px">
+<img src="https://i.imgur.com/r6dusMD.png" width="50px" height="50px">
