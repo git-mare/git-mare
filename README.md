@@ -1,7 +1,7 @@
 <h2>Oi!</h2>
 <li><b>Sistemas de Informação</b> - UEMG (6/8)</li>
 <li>Em busca de conhecimentos em programação</li>
-
+<li>Pretendendo me especializar na área de análise de sistemas
 <h2>Meus Projetos</h2>
 <li><a href="https://youtube.com/@git-mare">Canal no YouTube</a></li>
 <li><a href="https://illya.site/">Meu bot no discord</a></li>
