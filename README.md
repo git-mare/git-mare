@@ -11,7 +11,7 @@
 <h2>Linguagens</h2>
 <img src="https://imgur.com/2briqaU.png" align="left" width="50px" height="50px"> 
 <img src="https://i.imgur.com/0fL5s7a.png" align="left" width="40px" height="50px">
-<img src="https://i.imgur.com/BGCsunC.png" width="60px" height="58px">
+<img src="https://i.imgur.com/u7B14kl.png" width="60px" height="58px">
 <img src="https://i.imgur.com/r6dusMD.png" width="50px" height="50px">
 
 <br>
