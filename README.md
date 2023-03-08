@@ -1,6 +1,6 @@
 <h2>Oi!</h2>
 <ul>
-  <li><b>Sistemas de Informação</b> - UEMG (6/8)</li>
+  <li><b>Sistemas de Informação</b> - UEMG (7/8)</li>
   <li>Em busca de conhecimentos em programação</li>
   <li>Pretendendo me especializar na área de Data Science</li>
 </ul>
