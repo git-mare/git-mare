@@ -5,6 +5,8 @@
   <li> 🖥 Information Systems - UEMG (7/8)</li>
 </ul>
 
+<br>
+
 <div align="left">
 <picture>
 <source 
