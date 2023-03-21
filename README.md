@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!&center=true&color=527C9D&font=VT323&size=25)](https://git.io/typing-svg)
-
+<h2 align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!&center=true&color=527C9D&font=VT323&size=25"></h2>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=git-mare&show_icons=true&theme=city_lights&hide=contribs&count_private=true&custom_title=My+GitHub+Stats"
