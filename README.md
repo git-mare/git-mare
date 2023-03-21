@@ -1,7 +1,7 @@
 <h2>Hey!</h2>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=git-mare&show_icons=true&theme=city_lights&hide=contribs,issues&hide_title=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=git-mare&show_icons=true&theme=city_lights&hide=contribs,issues"
   media="(prefers-color-scheme: dark)"
 />
 <source
