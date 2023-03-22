@@ -7,10 +7,9 @@
 
 <br>
 
-<div align="left">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=git-mare&show_icons=true&theme=city_lights&hide=contribs&count_private=true&custom_title=My+GitHub+Stats&card_width=800"
+  srcset="https://github-readme-stats.vercel.app/api?username=git-mare&show_icons=true&theme=city_lights&hide=contribs&count_private=true&custom_title=My+GitHub+Stats&card_width=500"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -19,11 +18,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=git-mare&show_icons=true" />
 </picture>
-</div>
-
-<div align="center">
-
-
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mare&hide=html,css&layout=compact&theme=city_lights&custom_title=Languages&card_width=800)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mare&hide=html,css&layout=compact&theme=city_lights&custom_title=Languages&card_width=500)
+
