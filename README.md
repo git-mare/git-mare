@@ -4,9 +4,7 @@
 <ul>
   <li> 🖥 Information Systems - UEMG (7/8)</li>
 </ul>
-
 <br>
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=git-mare&show_icons=true&theme=city_lights&hide=contribs&count_private=true&custom_title=My+GitHub+Stats&card_width=450"
