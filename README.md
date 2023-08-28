@@ -2,7 +2,7 @@
 
 <h3>About</h3>
 <ul>
-  <li> 🖥 Information Systems - UEMG (7/8)</li>
+  <li> 🖥 Information Systems - UEMG (8/8)</li>
 </ul>
 <br>
 <picture>
