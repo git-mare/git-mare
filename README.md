@@ -17,5 +17,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=git-mare&show_icons=true" />
 </picture>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mare&hide=html,css&layout=compact&theme=city_lights&custom_title=Languages&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mare&hide=html,css,ejs&layout=compact&theme=city_lights&custom_title=Languages&card_width=450)
 
