@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-mare&hide=html,css,ejs,batchfile&layout=compact&theme=city_lights&custom_title=Languages&card_width=450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-mare&hide=html,css,ejs,lua,batchfile&layout=compact&theme=city_lights&custom_title=Languages&card_width=450">
 </p>
